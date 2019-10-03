@@ -1,0 +1,26 @@
+{
+  "name": "github-actions-playground",
+  "version": "0.0.0",
+  "description": "github-actions-playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosua/github-actions-playground.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "gosua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosua/github-actions-playground/issues"
+  },
+  "homepage": "https://github.com/gosua/github-actions-playground#readme",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
