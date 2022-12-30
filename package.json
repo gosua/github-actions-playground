@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/gosua/github-actions-playground#readme",
   "devDependencies": {
-    "mocha": "^6.2.1"
+    "mocha": "^10.2.0"
   }
 }
